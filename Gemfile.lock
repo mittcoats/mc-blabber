@@ -111,3 +111,9 @@ DEPENDENCIES
   puma
   rails (= 4.2.0)
   rails-api
+
+RUBY VERSION
+   ruby 2.2.0p0
+
+BUNDLED WITH
+   1.13.6
