@@ -8,4 +8,8 @@ There's a detailed tutorial on how to build this project at: http://fredguest.co
 
 Demo
 ---------------
-There's a live demo of the finished project at: https://blabs.herokuapp.com
+There's a live demo of the finished project at: https://mc-blabber.herokuapp.com
+
+You can find Fred Guest's demo here: https://blabs.herokuapp.com
+
+
