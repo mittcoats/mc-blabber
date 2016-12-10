@@ -9,3 +9,7 @@ gem 'pg'
 gem 'oauth'
 gem 'jwt'
 gem 'rack-cors', :require => 'rack/cors'
+
+group :production do
+	gem 'rails_12factor'
+end
